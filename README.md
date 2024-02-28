@@ -1,1 +1,1 @@
-# NLP-project
+# COMS579-S24
