@@ -28,4 +28,4 @@ This project uses PineCone and  LlamaIndex as a  vectorDB and piepline.
 
 
 ## Demo
-- Demo Preview[GitHub Pages]([https://pages.github.com](https://github.com/mohammadzadeh74/NLP-project/blob/main/Demo.mp4)https://github.com/mohammadzadeh74/NLP-project/blob/main/Demo.mp4/).
+- [Demo Preview ](https://github.com/mohammadzadeh74/NLP-project/blob/main/Demo.mp4/)
