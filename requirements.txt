@@ -1,0 +1,10 @@
+PyPDF2
+pdfminer
+argparse
+llama-index
+transformers
+pdfminer.six
+tokenizers
+torch
+pinecone-client
+numpy
