@@ -27,3 +27,5 @@ This project uses PineCone and  LlamaIndex as a  vectorDB and piepline.
 - `python upload.py --pdf_file=example.pdf`
 
 
+## Demo
+- Demo Preview[GitHub Pages]([https://pages.github.com](https://github.com/mohammadzadeh74/NLP-project/blob/main/Demo.mp4)https://github.com/mohammadzadeh74/NLP-project/blob/main/Demo.mp4/).
