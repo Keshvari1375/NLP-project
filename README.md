@@ -22,9 +22,10 @@ This project uses PineCone and  LlamaIndex as a  vectorDB and piepline.
 
 
 
-## Usage Examples
+## Usage Examples for Upload and Query
 - `pip install -r requirements.txt` 
 - `python upload.py --pdf_file=example.pdf`
+- `python QueryFinal.py --query "your query"`
 
 
 ## Demo
