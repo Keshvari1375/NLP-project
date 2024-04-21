@@ -2,13 +2,13 @@ from pathlib import Path
 import os
 from pinecone.grpc import PineconeGRPC
 from llama_index.readers import PDFReader
-import re
 import sys
 from llama_index.node_parser import SemanticSplitterNodeParser
 from llama_index.embeddings import OpenAIEmbedding
 from llama_index.ingestion import IngestionPipeline
 from llama_index.vector_stores import PineconeVectorStore
 import argparse
+
 
 #Initialisation
 pc = PineconeGRPC(api_key="Enter-Your-Pinecone-API-Key")
