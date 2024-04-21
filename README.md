@@ -12,13 +12,13 @@ This project uses PineCone and  LlamaIndex as a  vectorDB and piepline.
 - PyPDF2
 - pdfminer
 - argparse
-- llama-index
+- llama_index==0.9.34
 - transformers
 - pdfminer.six
 - tokenizers
-- torch
-- pinecone-client
+- pinecone-client[grpc]==3.0.0
 - numpy
+- pypdf==4.1.0
 
 
 
