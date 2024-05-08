@@ -22,7 +22,7 @@ This project uses PineCone and  LlamaIndex as a  vectorDB and piepline.
 - gradio~=4.29.0
 
 
-## Usage Examples for Upload and Query
+## Usage Examples for Upload and Query and GUI
 - `pip install -r requirements.txt` 
 - `python upload.py --pdf_file=example.pdf`
 - `python query.py --query="your query"`
@@ -30,8 +30,8 @@ This project uses PineCone and  LlamaIndex as a  vectorDB and piepline.
 
 
 ## Demo
-- [Demo Milestone 1 - Preview ](https://github.com/mohammadzadeh74/NLP-project/blob/main/Part1.mp4/) . In order to watch the video, click on the "view raw" button.
+- [Demo Milestone 1, Upload PDF - Preview ](https://github.com/mohammadzadeh74/NLP-project/blob/main/Part1.mp4/) . In order to watch the video, click on the "view raw" button.
   
-- [Demo Milestone 2 - Preview ](https://github.com/mohammadzadeh74/NLP-project/blob/main/part2.mp4/) . In order to watch the video, click on the "view raw" button.
+- [Demo Milestone 2, Query - Preview ](https://github.com/mohammadzadeh74/NLP-project/blob/main/part2.mp4/) . In order to watch the video, click on the "view raw" button.
 
-- [Demo Milestone 3 - Preview ](Part3_GUI_demo.mp4) . In order to watch the video, click on the "view raw" button.
+- [Demo Milestone 3, GUI - Preview ](Part3_GUI_demo.mp4) . In order to watch the video, click on the "view raw" button.
