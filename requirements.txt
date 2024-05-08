@@ -8,3 +8,4 @@ tokenizers
 pinecone-client[grpc]==3.0.0
 numpy
 pypdf==4.1.0
+gradio~=4.29.0
